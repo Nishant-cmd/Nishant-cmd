@@ -1,32 +1,94 @@
-<h1 align="center">Hi 👋, I'm Nishant Pandit</h1>
-<h3 align="center">A full-stack developer from Nepal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="nishant-cmd" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant-cmd" alt="nishant-cmd" /></a> </p>
+# Hi, I'm Nishant Pandit 👋
 
-- 🔭 I’m currently working on [blog-api](https://github.com/Nishant-cmd/blog-api)
+### Full-Stack Developer | Nepal 🇳🇵
 
-- 🌱 I’m currently learning **Node.js**
+I enjoy building practical applications, learning new technologies, and turning ideas into working software.
 
-- 👯 I’m looking to collaborate on **open source projects.**
+[![GitHub](https://img.shields.io/badge/GitHub-Nishant--cmd-181717?style=for-the-badge&logo=github)](https://github.com/Nishant-cmd)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsnishant.np@gmail.com)
 
-- 🤝 I’m looking for help with [file-uploader](https://github.com/Nishant-cmd/file-uploader)
+![Profile views](https://komarev.com/ghpvc/?username=Nishant-cmd&style=for-the-badge&color=0e75b6)
 
-- 💬 Ask me about **full-stack development.**
+</div>
 
-- 📫 How to reach me **itsnishant.np@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **[blog-api](https://github.com/Nishant-cmd/blog-api)**
+- 🌱 Currently learning **Node.js** and improving my full-stack development skills
+- 🤝 Interested in collaborating on **open-source projects**
+- 🧩 Looking for feedback and collaboration on **[file-uploader](https://github.com/Nishant-cmd/file-uploader)**
+- 💬 Ask me about **JavaScript, Node.js, and full-stack development**
+- 📫 Reach me at **[itsnishant.np@gmail.com](mailto:itsnishant.np@gmail.com)**
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,nodejs,express,tailwind,postgres,mysql,git,linux&perline=7" alt="Technology icons: C, C++, HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, Tailwind CSS, PostgreSQL, MySQL, Git, and Linux" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 📌 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant-cmd&show_icons=true&locale=en&layout=compact" alt="nishant-cmd" /></p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Nishant-cmd/blog-api">📝 blog-api</a></h3>
+      <p>A backend project I'm currently working on. Visit the repository for its implementation details and progress.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Nishant-cmd/file-uploader">📁 file-uploader</a></h3>
+      <p>A project I'm looking to improve through feedback and collaboration. Check out the repository to explore the code.</p>
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant-cmd&show_icons=true&locale=en" alt="nishant-cmd" /></p>
+## 📊 GitHub Analytics
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-cmd&" alt="nishant-cmd" /></p>
+<div align="center">
 
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nishant-cmd&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-cmd&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nishant-cmd&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant-cmd&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nishant-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+I'm always happy to connect, discuss ideas, and collaborate on interesting projects.
+
+**[✉️ Send me an email](mailto:itsnishant.np@gmail.com)** · **[🐙 Visit my GitHub](https://github.com/Nishant-cmd)**
+
+<sub>Thanks for stopping by! ⭐</sub>
+
+</div>
