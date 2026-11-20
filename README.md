@@ -15,10 +15,9 @@ I enjoy building practical applications, learning new technologies, and turning 
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **[messaging-app](YOUR_MESSAGING_APP_LINK)**
+- 🔭 Currently working on **[messaging-app](https://github.com/Nishant-cmd/messaging-app)**
 - 🌱 Currently learning **Node.js** and improving my full-stack development skills
 - 🤝 Interested in collaborating on **open-source projects**
-- 🧩 Looking for feedback on **[messaging-app](YOUR_FEEDBACK_LINK)**
 - 💬 Ask me about **JavaScript, Node.js, and full-stack development**
 - 📫 Reach me at **[itsnishant.np@gmail.com](mailto:itsnishant.np@gmail.com)**
 
@@ -36,11 +35,11 @@ I enjoy building practical applications, learning new technologies, and turning 
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/Nishant-cmd/blog-api">📝 blog-api</a></h3>
-      <p>A completed backend project for creating and managing blog content. Visit the repository to explore the implementation.</p>
+      <p>A full-stack blogging platform built with React, Express, and PostgreSQL. It allows users to create accounts, write and publish blog posts, read posts from other users, and interact through comments.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/Nishant-cmd/file-uploader">📁 file-uploader</a></h3>
-      <p>A completed project for uploading and managing files. Check out the repository to explore the code.</p>
+      <p>A file drive built with Express, EJS, Prisma, PostgreSQL, and Supabase Storage.</p>
     </td>
   </tr>
 </table>
