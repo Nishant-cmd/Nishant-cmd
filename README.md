@@ -52,6 +52,6 @@ I enjoy building practical applications, learning new technologies, and turning 
 
 I'm always happy to connect, discuss ideas, and collaborate on interesting projects.
 
-**[✉️ Email](mailto:itsnishant.np@gmail.com)** · **[🐙 GitHub](https://github.com/Nishant-cmd)** · **[💼 LinkedIn](YOUR_LINKEDIN_URL)**
+**[✉️ Email](mailto:itsnishant.np@gmail.com)** · **[🐙 GitHub](https://github.com/Nishant-cmd)** · **[💼 LinkedIn](https://www.linkedin.com/in/nishant-pandit-bb42643a4/)**
 
 </div>
